@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Wordle - Word guessing game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Guess the word in 6 tries. After each guess, the color of the tiles will change to show how close your guess was to the word.
+
 
 ## Available Scripts
 
