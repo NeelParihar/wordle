@@ -32,3 +32,10 @@
 .close:hover {
     scale: 1.2;
 }
+
+@media (max-width: 435px) {
+    .container {
+        width: 80vw;
+        padding: 20px;
+    }
+}
