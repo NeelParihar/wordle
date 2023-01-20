@@ -1,3 +1,4 @@
+/* eslint-disable array-callback-return */
 import GridItem from "./GridItem";
 import "./Grid.css";
 

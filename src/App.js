@@ -57,6 +57,7 @@ function App() {
 
   const getTextFromObjectArray = (array) => {
     let text = "";
+    // eslint-disable-next-line array-callback-return
     array.map((ele) => {
       text += ele.text;
     });
